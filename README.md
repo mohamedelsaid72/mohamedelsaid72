@@ -5,7 +5,7 @@ Hi, I'm Mohamed a front-end developer with 2 years of experience. I really enjoy
 I also Proficient with HTML, CSS, and Javascript.
 
 ## Skills and Experience
-* REACT
+* Vuejs 
 * JS
 * HTML, CSS
 * Sass

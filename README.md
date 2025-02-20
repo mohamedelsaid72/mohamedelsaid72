@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+![I am front-end developer](https://github.com/mohamedelsaid72/mohamedelsaid72/blob/main/do.PNG?raw=true)
 
-- 🔭 I’m currently working on [Cleverdocs](https://cleverdocs.netlify.app/en)
+# I'm Mohamed Elsayed
+As a junior Front-end Developer with a solid understanding of HTML, CSS, JavaScript, and Vue.js, I am highly motivated to create responsive and intuitive user experiences. With my experience working on projects such as landing pages, portfolios, and ecommerce’s websites. I possess expertise in implementing user interfaces, integrating various state management libraries, and leveraging modern front-end tools and techniques. My proficiency in tools such as GIT, Firebase, and Figma further enable me to deliver high-quality work in an efficient and collaborative manner. I am committed to keeping up with industry trends and best practices, and I am eager to contribute to the success of any team.
 
-- 👨‍💻 All of my projects are available at [https://ms-code.netlify.app/](https://ms-code.netlify.app/)
+## Skills and Experience
+* Vuejs (Vuex, Pinia)
+* Javascript (DOM, BOM, ES6)
+* HTML5, CSS3, Sass
+* Firebase
+* Bootstrap 
+* SEO
+* PWA
+* Figma
+* Git & Github
 
-- 💬 Ask me about **React, Vue, Nuxt, Tailwind CSS, and More**
 
-- 📫 How to reach me **mohamedelsaid25737@gmail.com**
 
-- 📄 Know about my experiences- Resume [https://drive.google.com/file/d/17cVSnqvzDWLR75SIbPUc0zOyjCAKlPvP/view?usp=sharing](https://drive.google.com/file/d/17cVSnqvzDWLR75SIbPUc0zOyjCAKlPvP/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-elsayed72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elsayed72/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
